@@ -1,0 +1,14 @@
+Name       Account No.   Balance
+Ankil      5005          8476.04
+Candace    8008          1999.23
+Chantal    1001          2289.75
+Darius     3003          6313.89
+Jared      2002          5345.56
+Joe        9009          109411.63
+Nicolle    4004          3985.00
+Ryan       6006          7321.95
+Sydney     7007          4144.52
+
+Joe has the highest amount $109411.63 in the account number 9009
+Candace has the lowest amount $1999.23 in the account number 8008
+The average amount is $16587.51
